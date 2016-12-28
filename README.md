@@ -29,7 +29,7 @@ A zebra without stripes is just a silly looking horse. We have a `zebraStripes` 
 * (Hint: the callback we pass to `.map()` takes more than one parameter)
 * The original objects in the `zebraStripes` array must **not** be modified, so be sure to use `Object.assign()`
 
-## Resources
+## Resources 
 
 * [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
